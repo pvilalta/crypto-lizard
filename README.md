@@ -3,7 +3,6 @@
 ## **Project**
 
 This program permit to get the value of any crypto-currencies automaticly in a Google spreadsheet.
-Every hours the program will call the API to get the newest informations from the market.
 
 You can find thereafter a tutorial to deploy it by your self
 
@@ -18,15 +17,13 @@ This program is powered by [Coin Gecko](https://www.coingecko.com/en/api) (API),
    - line 4 : spreedsheet ID
    - line 5 : sheet name
 
-3. Modify as you need the **MAIN CRYPTO** bloc
+3. Use the altCoin function adding 2 parameters
 
-   - crypto's symbol
-   - the case where you want it to
-
-   /!\ this part concern the top 250 of the market, if you need to follow a crypto above this rank, you have to follow the next instructions
-
-4. Use the altCoin function adding 2 parameters
    - crypto symbol
    - the case where you want it to
 
-v1.0
+4. You have the possiblity to set-up a trigger to load the current prices through the online IDE
+
+5. that's all :-)
+
+v2.0
