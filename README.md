@@ -10,7 +10,7 @@ This program is powered by [Coin Gecko](https://www.coingecko.com/en/api) (API),
 
 ## **Tutorial**
 
-1. Copy and past the code from **crypto-API.js** in the google.scrypt IDE
+1. Copy and past the code from **crypto-API.js** into the google.scrypt IDE
 
 2. Set up your spreedsheet informations
 
@@ -20,7 +20,7 @@ This program is powered by [Coin Gecko](https://www.coingecko.com/en/api) (API),
 3. Use the altCoin function adding 2 parameters
 
    - crypto symbol
-   - the case where you want it to
+   - the cell where you want it to
 
 4. You have the possiblity to set-up a trigger to load the current prices through the online IDE
 
