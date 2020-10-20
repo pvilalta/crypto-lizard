@@ -2,9 +2,9 @@
 
 ## **Project**
 
-This program permit to get the value of any crypto-currencies automaticly in a Google spreadsheet.
+This program permit to get the value of any crypto-currencies automaticaly in a Google spreadsheet.
 
-You can find thereafter a tutorial to deploy it by your self
+You can find thereafter a tutorial to deploy it
 
 This program is powered by [Coin Gecko](https://www.coingecko.com/en/api) (API), and developed with [clasp](https://github.com/google/clasp) plugin on VSC
 
